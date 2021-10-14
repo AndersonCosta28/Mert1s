@@ -11,4 +11,4 @@
 💞️ Estou procurando colabora em ... Projetos em Node.JS
 
 📫 How to reach me ... [Facebook](https://www.facebook.com/anderson.costa28/), [Linkedin](https://www.linkedin.com/in/anderson-costa-7a15141b2/) <br>
-📫 Como me alcançar ... Facebook](https://www.facebook.com/anderson.costa28/), [Linkedin](https://www.linkedin.com/in/anderson-costa-7a15141b2/)
+📫 Como me alcançar ... [Facebook](https://www.facebook.com/anderson.costa28/), [Linkedin](https://www.linkedin.com/in/anderson-costa-7a15141b2/)
