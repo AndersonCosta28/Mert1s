@@ -4,11 +4,13 @@
 👀 I’m interested in ...Becoming a Full Stack Developer and Next a Desktop Game Developer <br>
 👀 Estou interessado em... Tornar um desenvolvedor Full Stack e em seguida desenvolvedor de jogos Desktop
 
-🌱 I’m currently learning ... JavaScript (Node.JS) <br>
-🌱 Estou aprendendo atualmente ... JavaScript (Node.JS)
+🌱 I’m currently learning ... NodeJS <br>
+🌱 Estou aprendendo atualmente ... NodeJS
 
-💞️ I’m looking to collaborate on ... Projects in Node.js <br>
-💞️ Estou procurando colabora em ... Projetos em Node.JS
+💞️ I’m looking to collaborate on ... Projects in Node.js or .Net <br>
+💞️ Estou procurando colaborar em ... Projetos em Node.JS ou .Net
+
+[Curriculo.pdf](https://github.com/Mert1s/Mert1s/files/9701684/Curriculo.pdf)
 
 
 <div align="center">
